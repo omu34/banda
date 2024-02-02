@@ -1,0 +1,28 @@
+/* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */
+
+.banner-word {
+    color: var(--Primary-White, #FFF);
+    font-family: hilmar-bold;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -3px;
+}
+
+.banner-h2 {
+    color: var(--Primary-White, #FFF);
+    font-family: Hilmar;
+    font-size: 31.094px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35.536px;
+    /* 114.286% */
+}
+
+.banner-button {
+    display: flex;
+    padding: 11.327px 22.655px;
+    justify-content: center;
+    align-items: center;
+}
